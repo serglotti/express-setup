@@ -1,0 +1,15 @@
+{
+  "name": "express-setup",
+  "version": "1.0.0",
+  "description": "express first run",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sergio lottimore",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.2",
+    "express-handlebars": "^1.1.0"
+  }
+}
